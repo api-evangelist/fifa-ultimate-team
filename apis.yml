@@ -33,13 +33,13 @@ x-category: "Games & Comics"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Games And Comics
   - Public APIs
+  - Gaming
+  - Video Games
 apis:
   - name: FIFA Ultimate Team
     description: "FIFA Ultimate Team items API"
     humanURL: https://www.easports.com/fifa/ultimate-team/api/fut/item
-    baseURL: https://www.easports.com/fifa/ultimate-team/api/fut/item
     tags:
       - Games And Comics
     properties:
@@ -55,3 +55,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Games And Comics
