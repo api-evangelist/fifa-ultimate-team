@@ -40,7 +40,8 @@ apis:
   - name: FIFA Ultimate Team
     description: "FIFA Ultimate Team items API"
     humanURL: https://www.easports.com/fifa/ultimate-team/api/fut/item
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
